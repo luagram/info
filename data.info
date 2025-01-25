@@ -212,53 +212,53 @@
     },
     "17": {
       "id": 17,
-      "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/17/output.m3u8",
+      "url": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/17/output.m3u8",
       "title": "John Wick",
       "imdb": "tt2911666",
       "year": "2014",
       "description": "An ex-hitman comes out of retirement to track down the gangsters that took everything from him.",
-      "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/17/17.jpg",
+      "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/17/17.jpg",
       "subtitles": {
-        "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/17/ar.vtt"
+        "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/17/ar.vtt"
       }
     },
     "18": {
       "id": 18,
-      "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/18/output.m3u8",
+      "url": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/18/output.m3u8",
       "title": "John Wick: Chapter 2",
       "imdb": "tt4425200",
       "year": "2017",
       "description": "After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life.",
-      "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/18/18.jpg",
+      "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/18/18.jpg",
       "subtitles": {
-        "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/18/ar.vtt",
-        "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/18/en.vtt"
+        "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/18/ar.vtt",
+        "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/18/en.vtt"
       }
     },
     "19": {
       "id": 19,
-      "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/19/output.m3u8",
+      "url": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/19/output.m3u8",
       "title": "John Wick: Chapter 3 - Parabellum",
       "imdb": "tt6146586",
       "year": "2019",
       "description": "جون ويك يفر هذه المرة ﻷنه مُطارد على خلفية تعاقد مفتوح تبلغ قيمته 14 مليون دولار لقاء القضاء عليه، وبسبب كسره لقاعدة رئيسية وهي قتله لشخصٍ ما على أراضي فندق كونتيننتال، والقتيل كان من بين اﻷشخاص المتورطين في هذا التعاقد المفتوح، وعلى جون ويك أن يشق طريقه وينجو بحياته في قلب مدينة نيويورك.",
-      "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/19/19.jpg",
+      "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/19/19.jpg",
       "subtitles": {
-        "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/19/ar.vtt",
-        "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/19/en.vtt"
+        "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/19/ar.vtt",
+        "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/19/en.vtt"
       }
     },
     "20": {
       "id": 20,
-      "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/20/output.m3u8",
+      "url": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/20/output.m3u8",
       "title": "John Wick: Chapter 4",
       "imdb": "tt10366206",
       "year": "2023",
       "description": "بعد اكتشافه الطريقة التي ستمكنه من القضاء على المجلس الأعلى واستعادة حريته، يجد جون ويك نفسه في مواجهة مع عدو جديد تدفعه للشك حتى في أصدقاؤه القدامى .",
-      "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/20/20.jpg",
+      "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/20/20.jpg",
       "subtitles": {
-        "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/20/ar.vtt",
-        "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/20/en.vtt"
+        "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/20/ar.vtt",
+        "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/20/en.vtt"
       }
     }
   }
