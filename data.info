@@ -260,6 +260,19 @@
         "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/20/ar.vtt",
         "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/20/en.vtt"
       }
+    },
+    "21": {
+      "id": 21,
+      "url": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/21/output.m3u8",
+      "title": "Alarum",
+      "imdb": "tt31456973",
+      "year": "2025",
+      "description": "يسافر جاسوسان بعيدًا عن ضغوط العمل ويقرران الزواج، ولكن سريعًا يتعرض مخبئهما للهجوم من قبل وكالات الاستخبارات المختلفة سعيًا للحصول على قرص صلب مسروق.",
+      "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/21/21.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/21/ar.vtt",
+        "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/21/en.vtt"
+      }
     }
   }
 }
