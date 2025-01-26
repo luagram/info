@@ -286,6 +286,18 @@
         "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/22/ar.vtt",
         "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/22/en.vtt"
       }
+    },
+    "23": {
+      "id": 23,
+      "url": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/23/output.m3u8",
+      "title": "The Expendables 2",
+      "imdb": "tt1764651",
+      "year": "2012",
+      "description": "Mr. Church reunites the Expendables for what should be an easy paycheck, but when one of their men is murdered on the job, their quest for revenge puts them deep in enemy territory and up against an unexpected threat.",
+      "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/23/23.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/23/ar.vtt"
+      }
     }
   }
 }
