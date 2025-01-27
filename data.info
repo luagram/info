@@ -323,6 +323,15 @@
         "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/25/ar.vtt",
         "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/25/en.vtt"
       }
+    },
+    "26": {
+      "id": 26,
+      "url": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/26/output.m3u8",
+      "title": "بحبك",
+      "imdb": "null",
+      "year": "2022",
+      "description": "تتناول الأحداث حياة رجل يخوض قصتي حب، ويتخبط في حياته بين فتاتين، ويُظهر اختلاف مدى صدق التعبير عن الحب بين الرجل والمرأة.",
+      "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/26/26.jpg"
     }
   }
 }
