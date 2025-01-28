@@ -345,6 +345,19 @@
         "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/27/ar.vtt",
         "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/27/en.vtt"
       }
+    },
+    "28": {
+      "id": 28,
+      "url": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/28/output.m3u8",
+      "title": "The Bikeriders",
+      "imdb": "tt21454134",
+      "year": "2023",
+      "description": "حياة مجموعة من الأشخاص في وسط غرب الولايات المتحدة، ورحلتهم في تأسيس نادي خاص براكبي الدراجات النارية",
+      "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/28/28.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/28/ar.vtt",
+        "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/28/en.vtt"
+      }
     }
   }
 }
