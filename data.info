@@ -332,6 +332,19 @@
       "year": "2022",
       "description": "تتناول الأحداث حياة رجل يخوض قصتي حب، ويتخبط في حياته بين فتاتين، ويُظهر اختلاف مدى صدق التعبير عن الحب بين الرجل والمرأة.",
       "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/26/26.jpg"
+    },
+    "27": {
+      "id": 27,
+      "url": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/27/output.m3u8",
+      "title": "Juror #2",
+      "imdb": "tt27403986",
+      "year": "2024",
+      "description": "يعمل (جاستن كيمب) بهيئة محلفين في جرائم القتل، ويجد نفسه يومًا ما في معضلة أخلاقية كبيرة تدفعه للتأثير على هيئة المحلفين لإدانة شخص بريء.",
+      "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/27/27.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/27/ar.vtt",
+        "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/27/en.vtt"
+      }
     }
   }
 }
