@@ -358,6 +358,19 @@
         "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/28/ar.vtt",
         "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/28/en.vtt"
       }
+    },
+    "29": {
+      "id": 29,
+      "url": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/29/output.m3u8",
+      "title": "Oddity",
+      "imdb": "tt26470109",
+      "year": "2024",
+      "description": "في إطار من الرعب والتشويق، تنطلق امرأة في رحلة البحث عن السبب الحقيقي وراء وفاة شقيقتها، وتستعين بمساعدة مانيكان خشبي.",
+      "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/29/29.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/29/ar.vtt",
+        "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/29/en.vtt"
+      }
     }
   }
 }
