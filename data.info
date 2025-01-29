@@ -371,6 +371,18 @@
         "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/29/ar.vtt",
         "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/29/en.vtt"
       }
+    },
+    "30": {
+      "id": 30,
+      "url": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/30/output.m3u8",
+      "title": "The Shawshank Redemption",
+      "imdb": "tt0111161",
+      "year": "1994",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/30/30.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/30/ar.vtt"
+     }
     }
   }
 }
