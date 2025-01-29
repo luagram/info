@@ -386,15 +386,15 @@
     },
     "31": {
       "id": 31,
-      "url": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/31/output.m3u8",
+      "url": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/31/output.m3u8",
       "title": "Escape from Pretoria",
       "imdb": "tt5797184",
       "year": "2020",
       "description": "استنادًا لقصة حقيقية، تدور الأحداث حول قيام مجموعة من المساجين بسجن بريتوريا بتنفيذ خطة محكمة من أجل الهرب من قلب جنوب أفريقيا خلال فترة الفصل العنصري (اﻵبارتايد).",
-      "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/31/31.jpg",
+      "img": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/31/31.jpg",
       "subtitles": {
-        "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/31/ar.vtt",
-        "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/31/en.vtt"
+        "arabic": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/31/ar.vtt",
+        "english": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/31/en.vtt"
       }
     }
   }
