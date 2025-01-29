@@ -383,6 +383,19 @@
       "subtitles": {
         "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/30/ar.vtt"
      }
-    }
+    },
+    "31": {
+      "id": 31,
+      "url": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/31/output.m3u8",
+      "title": "Perfume: The Story of a Murderer",
+      "imdb": "tt0396171",
+      "year": "2006",
+      "description": "Jean-Baptiste Grenouille, born with a superior olfactory sense, creates the world's finest perfume. His work, however, takes a dark turn as he searches for the ultimate scent.",
+      "img": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/31/31.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/31/ar.vtt",
+        "english": "https://raw.githubusercontent.com/luagram/movie2/refs/heads/main/31/en.vtt"
+      }
+    },
   }
 }
