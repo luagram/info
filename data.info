@@ -409,6 +409,18 @@
         "arabic": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/32/ar.vtt",
         "english": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/32/en.vtt"
       }
+    },
+    "33": {
+      "id": 33,
+      "url": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/33/output.m3u8",
+      "title": "Man on Fire",
+      "imdb": "tt0328107",
+      "year": "2004",
+      "description": "In Mexico City, a former assassin swears vengeance on those who committed an unspeakable act against the family he was hired to protect.",
+      "img": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/33/33.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/33/ar.vtt"
+      }
     }
   }
 }
