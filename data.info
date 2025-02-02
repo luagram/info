@@ -433,6 +433,15 @@
       "subtitles": {
         "arabic": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/34/ar.vtt"
       }
+    },
+    "35": {
+      "id":35,
+      "url": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/35/output.m3u8",
+      "title": "21 Jump Street",
+      "imdb": "tt1232829",
+      "year": "2012",
+      "description": "A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring.",
+      "img": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/35/35.jpg"
     }
   }
 }
