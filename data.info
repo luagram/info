@@ -421,6 +421,18 @@
       "subtitles": {
         "arabic": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/33/ar.vtt"
       }
+    },
+    "34": {
+      "id":34,
+      "url": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/33/output.m3u8",
+      "title": "Matilda",
+      "imdb": "tt0117008",
+      "year": "1996",
+      "description": "Story of a wonderful little girl, who happens to be a genius, and her wonderful teacher vs. the worst parents ever and the worst school principal imaginable.",
+      "img": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/34/34.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/34/ar.vtt"
+      }
     }
   }
 }
