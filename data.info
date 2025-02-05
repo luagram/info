@@ -451,6 +451,18 @@
       "year": "2017",
       "description": "In 1950, amidst the ravages of the Korean War, Sergeant Süleyman stumbles upon a a half-frozen little girl, with no parents and no help in sight. Frantic, scared and on the verge of death, ...",
       "img": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/36/36.jpg"
+    },
+    "37": {
+      "id":37,
+      "url": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/37/output.m3u8",
+      "title": "The Blind Side",
+      "imdb": "tt0878804",
+      "year": "2009",
+      "description": "The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.",
+      "img": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/37/37.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie3/refs/heads/main/37/ar.vtt"
+      }
     }
   }
 }
